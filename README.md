@@ -11,7 +11,7 @@ Interactive Kepler.gl maps built from open commuting datasets such as LODES, OD 
 
 | City | Data Source | Description | Live Link |
 |------|--------------|--------------|------------|
-| **Seattle** | U.S. Census LODES 2022 | Home → Work flow visualization (block → tract aggregation) | [Open map →](https://sungyol2.github.io/Commuting_Patterns/Seattle/) |
+| **Seattle** | U.S. Census LODES8 2022 | Home → Work flow visualization (block → tract aggregation) | [Open map →](https://sungyol2.github.io/Commuting_Patterns/Seattle/) |
 | **São Paulo** | OD Survey | Metropolitan commuting network visualization | *(coming soon)* |
 | **Portland** | TriMet GTFS | Transit service animation | *(coming soon)* |
 
@@ -26,6 +26,7 @@ Interactive Kepler.gl maps built from open commuting datasets such as LODES, OD 
 ---
 
 ## 📂 Repository Structure
+```
 Commuting_Patterns/
 ├─ index.html # Landing page for all maps
 ├─ Seattle/ # Kepler export + code + data
@@ -33,7 +34,7 @@ Commuting_Patterns/
 ├─ Portland/ # (planned)
 ├─ assets/ # Preview images for social cards
 └─ README.md
-
+```
 
 ---
 
