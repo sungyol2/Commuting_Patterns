@@ -1,3 +1,5 @@
+![Commuting Patterns Across Cities](assets/landing2.png)
+
 # Commuting Patterns — Interactive Maps
 
 **Explore how people move through cities.**  
