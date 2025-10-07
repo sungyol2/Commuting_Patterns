@@ -27,13 +27,12 @@ Interactive Kepler.gl maps built from open commuting datasets such as LODES, OD 
 
 ## 📂 Repository Structure
 Commuting_Patterns/
-├─ index.html # Landing page for all maps
-├─ Seattle/ # Kepler export + code + data
-├─ Sao_Paulo/ # (planned)
-├─ Portland/ # (planned)
-├─ assets/ # Preview images for social cards
-├─ .nojekyll # Ensures GitHub Pages serves subfolders correctly
-└─ README.md
+ ├─ index.html # Landing page for all maps
+ ├─ Seattle/ # Kepler export + code + data
+ ├─ Sao_Paulo/ # (planned)
+ ├─ Portland/ # (planned)
+ ├─ assets/ # Preview images for social cards
+ └─ README.md
 
 
 ---
